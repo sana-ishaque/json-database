@@ -1,103 +1,98 @@
 {
-    "home": [
-        { "displayPicture": "https://images.unsplash.com/photo-1531969179221-3946e6b5a5e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" },
-        { "displayPicture": "https://images.unsplash.com/photo-1531969179221-3946e6b5a5e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" },
-        {
-            "wolcomeToChayeKhana": [
-                {
-                    "ourChaye": "https://images.unsplash.com/photo-1515094304721-0d5e2ac3bfa1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60",
-                    "ourFood": "https://images.unsplash.com/photo-1478369402113-1fd53f17e8b4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60",
-                    "abutChayeKhana": "https://images.unsplash.com/photo-1559673049-3f337dbfd97a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"
-                }
-            ]
-        },
-        {
-            "latestNews": [
-                {
-                    "title": "Khaye khana Nashta Deals",
-                    "displayPicture": "https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
-                    "author": "Numair Chaaye",
-                    "content": "Chaaye Khana brings you two limited time breakfast deals. See below for more"
-                },
-                {
-                    "title": "Moveambers Chaye'Khana",
-                    "displayPicture": "https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
-                    "author": "Numair Chaaye",
-                    "content": "it’s the start of Movember, and we’re raising awareness for it all this month Growing a mooch for the month? Come with your family and we’ll give you a little treat."
-                }
-            ]
-        },
-        {
-            "readMore": "Lorem Ipsum Dora..."
-        },
-        {
-            "historyOfChayeKhana": "Chaaye khana was conceived in our minds long before it was established five years ago in F-6 Islamabad. The idea to have a tea-centric cafe in a nation, that consumes more tea per capita than any other country, grew stronger with time and in the absence of any viable hang-out options for the professionals, the housewives, the family or simply someone who loves a good book with their tea.",
-        },
-        {
-            "locationOfChaiKhana": [
-                {
-                    "title": "The Original Chaaye Khana, F-6, Islamabad",
-                    "address": "Shop # 11, Block B United Bakery Plaza Super market، F-6 Markaz, Islamabad, Islamabad Capital Territory.",
-                    "contactNumber": "051-8312192, 051-8312193"
-                },
-                {
-                    "title": "Chaaye Khana F-11 Islamabad",
-                    "address": "Behind Attock Petrol Pump, Colonel Sher Khan Road, F-11 Markaz, Islamabad.",
-                    "contactNumber": "051-2224300"
-                },
-                {
-                    "title": "Chaaye Khana Saddar, Rawalpindi",
-                    "address": "1st Floor, Hardees Plaza, 41 Haider Road, Saddar Cantt. Rawalpindi",
-                    "contactNumber": "0515700450, 5700452"
-                },
-                {
-                    "title": "Chaaye Khana Bahria Town, Rawalpindi",
-                    "address": "Plot 49, Main Boulevard, Civic Center, Phase 4, Bahria Town, Rawalpindi. ",
-                    "contactNumber": 051 5733673-5
-                },
-                {
-                    "title": "Chaaye Khana Jhelum",
-                    "address": "Near PSO Pump, Main GT Road, Jhelum Cantt.",
-                    "contactNumber": 0544610711-4
-                },
-                {
-                    "title": "Chaaye Khana Lahore",
-                    "address": "Pearl 1 94 B-1 MM Alam Road Gulberg III, Lahore.",
-                    "contactNumber": "042-35778284"
-                },
-                {
-                    "title": "Chaaye Khana Abbotabad",
-                    "address": "Awan Shopping Center, phase 2, opposite daewoo bus station, Mansehra Road, Mandiyan.",
-                    "contactNumber": "092-3823232-4"
-                },
-                {
-                    "title": "Chaaye Khana Multan",
-                    "address": "24-A Gulghasht, Opposite City school, Peer Khursheed Morr, Tehsil Chowk Multan.",
-                    "contactNumber": "092-3823232-4"
-                },
-                {
-                    "title": "Chaaye Khana Abbotabad",
-                    "address": "Awan Shopping Center, phase 2, opposite daewoo bus station, Mansehra Road, Mandiyan.",
-                    "contactNumber": ["061-6520111", "061-6520222", "061-6520333"]
-                },
-                {
-                    "title": "Chaaye Khana Karachi DHA",
-                    "address": "Shop # 1C, Bukhari Commercial Lane 13, DHA Phase 6, Karachi.",
-                    "contactNumber": " 021-35848204"
-                },
-                {
-                    "title": "Chaaye Khana Karachi Lucky Mall",
-                    "address": "Shop# FS 9-11, Food Street Ground Floor, Lucky One Mall Rashid Minhas Road, Karachi. ",
-                    "contactNumber": " 021-37181226"
-                }
-            ]
-        }
-    ],
-    // menu: 
-    {
-        "menu": ["Breakfast", "Burgers, Specials and Snacks", "Beverages, Desers and Bakery", "Teas and Coffes"]
+    "home": {
+        "displayPicture": "https://images.unsplash.com/photo-1531969179221-3946e6b5a5e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60",
+        "wolcomeToChayeKhana": [
+            {
+                "ourChaye": "https://images.unsplash.com/photo-1515094304721-0d5e2ac3bfa1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60",
+                "ourFood": "https://images.unsplash.com/photo-1478369402113-1fd53f17e8b4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60",
+                "abutChayeKhana": "https://images.unsplash.com/photo-1559673049-3f337dbfd97a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"
+            }
+        ],
+        "latestNews": [
+            {
+                "title": "Khaye khana Nashta Deals",
+                "displayPicture": "https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+                "author": "Numair Chaaye",
+                "content": "Chaaye Khana brings you two limited time breakfast deals. See below for more"
+            },
+            {
+                "title": "Moveambers Chaye'Khana",
+                "displayPicture": "https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+                "author": "Numair Chaaye",
+                "content": "it’s the start of Movember, and we’re raising awareness for it all this month Growing a mooch for the month? Come with your family and we’ll give you a little treat."
+            }
+        ],
+        "readMore": "Lorem Ipsum Dora...",
+        "historyOfChayeKhana": "Chaaye khana was conceived in our minds long before it was established five years ago in F-6 Islamabad. The idea to have a tea-centric cafe in a nation, that consumes more tea per capita than any other country, grew stronger with time and in the absence of any viable hang-out options for the professionals, the housewives, the family or simply someone who loves a good book with their tea.",
+        "locationOfChaiKhana": [
+            {
+                "title": "The Original Chaaye Khana, F-6, Islamabad",
+                "address": "Shop # 11, Block B United Bakery Plaza Super market، F-6 Markaz, Islamabad, Islamabad Capital Territory.",
+                "contactNumber": "051-8312192, 051-8312193"
+            },
+            {
+                "title": "Chaaye Khana F-11 Islamabad",
+                "address": "Behind Attock Petrol Pump, Colonel Sher Khan Road, F-11 Markaz, Islamabad.",
+                "contactNumber": "051-2224300"
+            },
+            {
+                "title": "Chaaye Khana Saddar, Rawalpindi",
+                "address": "1st Floor, Hardees Plaza, 41 Haider Road, Saddar Cantt. Rawalpindi",
+                "contactNumber": "0515700450, 5700452"
+            },
+            {
+                "title": "Chaaye Khana Bahria Town, Rawalpindi",
+                "address": "Plot 49, Main Boulevard, Civic Center, Phase 4, Bahria Town, Rawalpindi. ",
+                "contactNumber": "051-5733673-5"
+            },
+            {
+                "title": "Chaaye Khana Jhelum",
+                "address": "Near PSO Pump, Main GT Road, Jhelum Cantt.",
+                "contactNumber": "0544610711-4"
+            },
+            {
+                "title": "Chaaye Khana Lahore",
+                "address": "Pearl 1 94 B-1 MM Alam Road Gulberg III, Lahore.",
+                "contactNumber": "042-35778284"
+            },
+            {
+                "title": "Chaaye Khana Abbotabad",
+                "address": "Awan Shopping Center, phase 2, opposite daewoo bus station, Mansehra Road, Mandiyan.",
+                "contactNumber": "092-3823232-4"
+            },
+            {
+                "title": "Chaaye Khana Multan",
+                "address": "24-A Gulghasht, Opposite City school, Peer Khursheed Morr, Tehsil Chowk Multan.",
+                "contactNumber": "092-3823232-4"
+            },
+            {
+                "title": "Chaaye Khana Abbotabad",
+                "address": "Awan Shopping Center, phase 2, opposite daewoo bus station, Mansehra Road, Mandiyan.",
+                "contactNumber": [
+                    "061-6520111",
+                    "061-6520222",
+                    "061-6520333"
+                ]
+            },
+            {
+                "title": "Chaaye Khana Karachi DHA",
+                "address": "Shop # 1C, Bukhari Commercial Lane 13, DHA Phase 6, Karachi.",
+                "contactNumber": " 021-35848204"
+            },
+            {
+                "title": "Chaaye Khana Karachi Lucky Mall",
+                "address": "Shop# FS 9-11, Food Street Ground Floor, Lucky One Mall Rashid Minhas Road, Karachi. ",
+                "contactNumber": " 021-37181226"
+            }
+        ]
     },
-    breakfast: [
+    "menu": [
+        "Breakfast",
+        "Burgers, Specials and Snacks",
+        "Beverages, Desers and Bakery",
+        "Teas and Coffes"
+    ],
+    "breakfast": [
         {
             "category": "Eggs",
             "name": "Sunny Side Up",
@@ -154,11 +149,18 @@
         },
         {
             "category": "Bread",
-            "optionsOfBread": ["White", "Brown"]
+            "optionsOfBread": [
+                "White",
+                "Brown"
+            ]
         },
         {
             "category": "Sides",
-            "options": ["Meatt Muffin Slices", "Hash Browns", "Breakfas"]
+            "options": [
+                "Meatt Muffin Slices",
+                "Hash Browns",
+                "Breakfast"
+            ]
         },
         {
             "category": "Sides",
@@ -182,10 +184,12 @@
         {
             "name": "Pan Cakes",
             "price": 325
-        }, {
+        },
+        {
             "name": "Red Velvet Cup Cakes",
             "price": 355
-        }, {
+        },
+        {
             "name": "Nutella Crepe",
             "price": 495
         },
@@ -238,7 +242,12 @@
             "price": 355
         },
         {
-            "toppings": ["Mapple Syrup", "Honey", "Blueberry Sauce", "Strawberry Sauce"]
+            "toppings": [
+                "Mapple Syrup",
+                "Honey",
+                "Blueberry Sauce",
+                "Strawberry Sauce"
+            ]
         }
     ],
     "BurgersSpecialsAndSnacks": [
@@ -425,8 +434,8 @@
         {
             "category": "Specials",
             "name": "Chicken Parmesan",
-            "price": 
-            },
+            "price": 225
+        },
         {
             "category": "Specials",
             "name": "Chicken with Noodles In Oyester Sauce",
@@ -483,230 +492,229 @@
         {
             "note": "in your choice of the following bread: White, Brown, Foccacia"
         }
-        // can we make an array inside jason
     ],
     "BevevragesDesersBakery": [
         {
             "category": "Mocktails",
             "name": "Pina Colada",
-            "price": 360,
+            "price": 360
         },
         {
             "category": "Mocktails",
             "name": "Lemon MArgirita",
-            "price": 255,
+            "price": 255
         },
         {
             "category": "Mocktails",
             "name": "Lemon Fizz",
-            "price": 225,
+            "price": 225
         },
         {
             "category": "Mocktails",
             "name": "Mint Magic",
-            "price": 280,
+            "price": 280
         },
         {
             "category": "Mocktails",
             "name": "Strawberry Margirita",
-            "price": 280,
+            "price": 280
         },
         {
             "category": "Mocktails",
             "name": "Slizzard",
-            "price": 280,
+            "price": 280
         },
         {
             "category": "Mocktails",
             "name": "Lemonade",
-            "price": 225,
+            "price": 225
         },
         {
             "category": "Milk Shakes",
             "name": "Oreo Shake",
-            "price": 445,
+            "price": 445
         },
         {
             "category": "Milk Shakes",
             "name": "Choclate Brownie Shake",
-            "price": 445,
+            "price": 445
         },
         {
             "category": "Milk Shakes",
             "name": "Nutella Shake",
-            "price": 495,
+            "price": 495
         },
         {
             "category": "Milk Shakes",
             "name": " Espresso Vanilla9Shake",
-            "price": 445,
+            "price": 445
         },
         {
             "category": "Milk Shakes",
             "name": "Caramel Praline",
-            "price": 495,
+            "price": 495
         },
         {
             "category": "Milk Shakes",
             "name": "Oreo Espresso",
-            "price": 495,
+            "price": 495
         },
         {
             "category": "Milk Shakes",
             "name": "Banana Milkshake",
-            "price": 355,
+            "price": 355
         },
         {
             "category": "Dessers And Bakery",
             "name": "Death By Choclate",
-            "price": 475,
+            "price": 475
         },
         {
             "category": "Dessers And Bakery",
             "name": "Choclate Mousse",
-            "price": 215,
+            "price": 215
         },
         {
             "category": "Dessers And Bakery",
             "name": "Careme Caramel",
-            "price": 195,
+            "price": 195
         },
         {
             "category": "Dessers And Bakery",
             "name": "Toffe Walnut Crunch",
-            "price": 795,
+            "price": 795
         },
         {
             "category": "Dessers And Bakery",
             "name": "Apple Pie",
-            "price": 245,
+            "price": 245
         },
         {
             "category": "Dessers And Bakery",
             "name": "Bread Pudding With Ice Cream",
-            "price": 645,
+            "price": 645
         },
         {
             "category": "Dessers And Bakery",
             "name": "Choclate Molten Cake",
-            "price": 385,
+            "price": 385
         },
         {
             "category": "Dessers And Bakery",
             "name": "Honey Walnut Pastry",
-            "price": 325,
+            "price": 325
         },
         {
             "category": "Dessers And Bakery",
             "name": "Pound Cake",
-            "price": 390,
+            "price": 390
         },
         {
             "category": "Dessers And Bakery",
             "name": "Tiramisu Cake Slice",
-            "price": 425,
+            "price": 425
         },
         {
             "category": "Dessers And Bakery",
             "name": "Carrot Cake Slice",
-            "price": 425,
+            "price": 425
         },
         {
             "category": "Dessers And Bakery",
             "name": "Coffe Cake Slice",
-            "price": 280,
+            "price": 280
         },
         {
             "category": "Dessers And Bakery",
             "name": "Choclate Croissant",
-            "price": 105,
+            "price": 105
         },
         {
             "category": "Dessers And Bakery",
             "name": "Choclate Mud Cake",
-            "price": 175,
+            "price": 175
         },
         {
             "category": "Dessers And Bakery",
             "name": "Blueberry Cake",
-            "price": 280,
+            "price": 280
         },
         {
             "category": "Dessers And Bakery",
             "name": "Banana Bread",
-            "price": 140,
+            "price": 140
         },
         {
             "category": "Dessers And Bakery",
             "name": "Date and Walnut Bread",
-            "price": 170,
+            "price": 170
         },
         {
             "category": "Dessers And Bakery",
             "name": "Choclate Brownie",
-            "price": 130,
+            "price": 130
         },
         {
             "category": "Dessers And Bakery",
             "name": "Red Valvet Cupcake",
-            "price": 105,
+            "price": 105
         },
         {
             "category": "Dessers And Bakery",
             "name": "Doughnut",
-            "price": 75,
+            "price": 75
         },
         {
             "category": "Seasonal Specials",
             "name": "Strawberry Tart*",
-            "price": 245,
+            "price": 245
         },
         {
             "category": "Seasonal Specials",
             "name": "Strawberry Delighth*",
-            "price": 275,
+            "price": 275
         },
         {
             "category": "Seasonal Specials",
             "name": "Strawberry Oreo Tart",
-            "price": 545,
+            "price": 545
         },
         {
             "category": "Seasonal Specials",
             "name": "Strawberry Cheesecake Slice*",
-            "price": 300,
+            "price": 300
         },
         {
             "category": "Seasonal Specials",
             "name": "Orange & Lemon Cake*",
-            "price": 280,
+            "price": 280
         },
         {
             "category": "Seasonal Specials",
             "name": "Orange  & Mousse Cake*",
-            "price": 325,
+            "price": 325
         },
         {
             "category": "Seasonal Specials",
             "name": "Mango Tart*",
-            "price": 270,
+            "price": 270
         },
         {
             "category": "Seasonal Specials",
             "name": "Mango Delight*",
-            "price": 465,
+            "price": 465
         },
         {
             "category": "Seasonal Specials",
             "name": "Cherry Pie*",
-            "price": 415,
-        },
+            "price": 415
+        }
     ],
     "teasAndCoffes": [
         {
             "category": "Chaaye",
             "name": "Regular Chaaye",
-            "price": 170,
+            "price": 170
         },
         {
             "category": "Chaaye",
@@ -716,27 +724,27 @@
         {
             "category": "Chaaye",
             "name": "Doodh Ptti",
-            "price": 205,
+            "price": 205
         },
         {
             "category": "Chaaye",
             "name": "Peshawari Kehva",
-            "price": 120,
+            "price": 120
         },
         {
             "category": "Chaaye",
             "name": "Kashmiri Chaaye*",
-            "price": 295,
+            "price": 295
         },
         {
             "category": "Coffees",
             "name": "Latte",
-            "price": 410,
+            "price": 410
         },
         {
             "category": "Coffees",
             "name": "Cappuccino",
-            "price": 395,
+            "price": 395
         },
         {
             "category": "Coffees",
@@ -745,389 +753,409 @@
                 "single": 250,
                 "Double": 325
             },
-            "price": 250,
+            "price": 250
         },
         {
             "category": "Coffees",
             "name": "Coffe",
-            "price": 305,
+            "price": 305
         },
         {
             "category": "Coffees",
             "name": "Hot Choclate",
-            "price": 385,
+            "price": 385
         },
         {
             "category": "Green Tea",
             "name": "Gyokuro",
-            "price": 595,
+            "price": 595
         },
         {
             "category": "Green Tea",
             "name": "Japanese Sencha Blend",
-            "price": 365,
+            "price": 365
         },
         {
             "category": "Green Tea",
             "name": "Jasemine Premium Blend",
-            "price": 365,
+            "price": 365
         },
         {
             "category": "Green Tea",
             "name": "Vanilla Blend",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Green Tea",
             "name": "Tropical Blossom",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Green Tea",
             "name": "Chayee Khana Special",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Green Tea",
             "name": "Nutty Green",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Green Tea",
             "name": "Moroccan Mint Classic",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Green Tea",
             "name": "Pomegranate Gojiberry Blend",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Green Tea",
             "name": "Pearly Pear",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Green Tea",
             "name": "Strawberry Rhubarb Sencha",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Green Tea",
             "name": "For The Love Of Tea",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Green Tea",
             "name": "Cordoba",
-            "price": 365,
+            "price": 365
         },
         {
             "category": "Green Tea",
             "name": "Imperial Matcha Green",
-            "price": 595,
+            "price": 595
         },
         {
             "category": "Green Tea",
             "name": "Bluberry Jasmine",
-            "price": 365,
+            "price": 365
         },
         {
             "category": "Green Tea",
             "name": "Delicious Detoxification",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "White Tea",
             "name": "Golden Essence",
-            "price": 425,
+            "price": 425
         },
         {
             "category": "White Tea",
             "name": "Alps Saffron White",
-            "price": 425,
+            "price": 425
         },
         {
             "category": "White Tea",
             "name": "K2 Tea",
-            "price": 425,
+            "price": 425
         },
         {
             "category": "White Tea",
             "name": "Mango Delight In White",
-            "price": 425,
+            "price": 425
         },
         {
             "category": "White Tea",
             "name": "A Kiss Of Lemon",
-            "price": 425,
+            "price": 425
         },
         {
             "category": "Black Tea",
             "name": "Lapsang Souchang Blend",
-            "price": 200,
+            "price": 200
         },
         {
             "category": "Black Tea",
             "name": "Masala Chayee",
-            "price": 315,
-        }, {
+            "price": 315
+        },
+        {
             "category": "Black Tea",
             "name": "Russian Caravan",
-            "price": 315,
-        }, {
+            "price": 315
+        },
+        {
             "category": "Black Tea",
             "name": "Earl Grey Premium",
-            "price": 315,
-        }, {
+            "price": 315
+        },
+        {
             "category": "Black Tea",
             "name": "French Patteseire",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Black Tea",
             "name": "Darjeeling Organic",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Black Tea",
             "name": "Irish Breakfast",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Black Tea",
             "name": "English Breakfast Premium",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Black Tea",
             "name": "Royal Lychee",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Black Tea",
             "name": "Orange Pekoe",
-            "price": 365,
+            "price": 365
         },
         {
             "category": "Black Tea",
             "name": "Earl Grey lavender",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Black Tea",
             "name": "Almond Biscuits",
-            "price": 365,
+            "price": 365
         },
         {
             "category": "Black Tea",
             "name": "Praly Ginger",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Black Tea",
             "name": "Sweet  Spicy",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Black Tea",
             "name": "Tea Coffe Blend",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Rooibos Tea",
             "name": "Coco & Spice",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Rooibos Tea",
             "name": "French Organic Rooibos",
-            "price": 315,
-        }, {
+            "price": 315
+        },
+        {
             "category": "Rooibos Tea",
             "name": "Wildberry Rooibos",
-            "price": 365,
-        }, {
+            "price": 365
+        },
+        {
             "category": "Rooibos Tea",
             "name": "Zesty Ginseng Blend",
-            "price": 365,
-        }, {
+            "price": 365
+        },
+        {
             "category": "Rooibos Tea",
             "name": "Creamy Lemon Rooibos",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Rooibos Tea",
             "name": "Bakery In A Cup",
-            "price": 365,
-        }, {
+            "price": 365
+        },
+        {
             "category": "Rooibos Tea",
             "name": "Be INspired",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Rooibos Tea",
             "name": "Choclate Yerba Mate",
-            "price": 290,
+            "price": 290
         },
         {
             "category": "Rooibos Tea",
             "name": "Taste Of Heaven",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Iced Tea",
             "name": "Regular",
-            "price": 245,
+            "price": 245
         },
         {
             "category": "Iced Tea",
             "name": "Tropical Blossom",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Iced Tea",
             "name": "Peachful Berriyal",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Iced Tea",
             "name": "Strawberry Rhubarb",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Iced Tea",
             "name": "Lassi",
-            "price": 250,
+            "price": 250
         },
         {
             "category": "Iced Tea",
             "name": "Soft Drinks",
-            "price": 105,
+            "price": 105
         },
         {
             "category": "Iced Tea",
             "name": "Diet Soft Drinks",
-            "price": 135,
+            "price": 135
         },
         {
             "category": "Iced Tea",
             "name": "Bottled Orange Juice",
-            "price": 195,
+            "price": 195
         },
         {
             "category": "Iced Tea",
             "name": "Bottled Mango Juice",
-            "price": 195,
+            "price": 195
         },
         {
             "category": "Iced Tea",
             "name": "Bottled Water Small",
-            "price": 95,
+            "price": 95
         },
         {
             "category": "Iced Tea",
             "name": "Bottled Water Large",
-            "price": 195,
+            "price": 195
         },
         {
             "category": "Iced Tea",
             "name": "Fresh Juices*",
-            "price": 195,
+            "price": 195
         },
         {
             "category": "Herbal Tea",
             "name": "Ayurvedic Tea",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Herbal Tea",
             "name": "Roasty Almond",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Herbal Tea",
             "name": "Stress Fighter",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Herbal Tea",
             "name": "Pinacolada Blend",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Herbal Tea",
             "name": "Digestion Tea",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Herbal Tea",
             "name": "Blueberry Lake",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Herbal Tea",
             "name": "Herba Stimulant",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Herbal Tea",
             "name": "Cold Buster",
-            "price": 365,
+            "price": 365
         },
         {
             "category": "Herbal Tea",
             "name": "High Mountain Lavender",
-            "price": 450,
+            "price": 450
         },
         {
             "category": "Herbal Tea",
             "name": "Deep Green Sea",
-            "price": 365,
+            "price": 365
         },
         {
             "category": "Herbal Tea",
             "name": "Peachful Berriyiel",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Herbal Tea",
             "name": "Pure Chamomile",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Herbal Tea",
             "name": "Relaxation Mode",
-            "price": 365,
+            "price": 365
         },
         {
             "category": "Herbal Tea",
             "name": "Berries & Mint",
-            "price": 315,
+            "price": 315
         },
         {
             "category": "Oolong Tea",
             "name": "Exotic Tropica Oolong",
-            "price": 425,
+            "price": 425
         },
         {
             "category": "Oolong Tea",
             "name": "Caramel Cream",
-            "price": 425,
-        },
-    ]
+            "price": 425
+        }
+    ],
     "about": "In words of our patron ‘chaayekhana is tea-lover’s dream’.",
-    "regularTea": ["Regular Chaaye", "Special Chaaye", "Special Chaaye", "Special Chaaye", "Coffee"],
+    "regularTea": [
+        "Regular Chaaye",
+        "Special Chaaye",
+        "Special Chaaye",
+        "Special Chaaye",
+        "Coffee"
+    ],
     "DetailsOfExoticChaaye": [
         {
             "title": "Oolong Tea",
             "Description": " Oolong teas are full-bodied with a fragrant and fruity aroma. Often called weight loss teas because they help burn fat built up in the body. They are often served in Chinese restaurants.",
-            "healthBenifits": [" Good for metabolism and digestion", "May help lower your cholesterol levels", " Excellent for skin and complexion",]
+            "healthBenifits": [
+                " Good for metabolism and digestion",
+                "May help lower your cholesterol levels",
+                " Excellent for skin and complexion"
+            ]
         },
         {
             "title": "Herbal Tea",
             "Description": "These teas are made from ingredients so fresh that you can actually eat them!",
-            "healthBenifits": ["Delicious source of antioxidants and vitamins, particularly Vitamin C", "Naturally caffeine-free"],
+            "healthBenifits": [
+                "Delicious source of antioxidants and vitamins, particularly Vitamin C",
+                "Naturally caffeine-free"
+            ]
         },
         {
             "title": "Berry trap",
@@ -1135,7 +1163,7 @@
         },
         {
             "title": "Ayurvedic Tea",
-            "Description": "It’s a sweet, exotic blend of chrysanthemum, saffron, marigolds, cardamom, organic hibiscus, peppermint, sarsaparilla, raspberry leaf, organic holy basil, lemon and peach. Ayurvedic medicine has been around for over 5000 years, so it just might do the trick.",
+            "Description": "It’s a sweet, exotic blend of chrysanthemum, saffron, marigolds, cardamom, organic hibiscus, peppermint, sarsaparilla, raspberry leaf, organic holy basil, lemon and peach. Ayurvedic medicine has been around for over 5000 years, so it just might do the trick."
         },
         {
             "title": "Roasty Almond",
@@ -1180,27 +1208,181 @@
         {
             "title": "Chamomile flowers",
             "Description": "With a distinct apple like taste and aroma, chamomile tea acts as a mild sedative, an anti-inflammatory, and may help boost the immune system and ward off colds. Chamomile tea is ideal for relaxing in the evening, soothing the body and mind before sleep."
-        },
+        }
     ],
     "nashtaDeals": [
         {
             "title": "Combo 1",
             "serving": "for 1 person",
-            "description": ["2 Eggs Any Style", "1 Paratha and 2 Bread Slices", " Lassi OR Tea(doodh Patti or Regular Tea)"],
+            "description": [
+                "2 Eggs Any Style",
+                "1 Paratha and 2 Bread Slices",
+                " Lassi OR Tea(doodh Patti or Regular Tea)"
+            ],
             "timings": "Weekdays from 8am to 12 noon.",
-            "price":"Rs 499/- only"
+            "price": "Rs 499/- only"
         },
         {
             "title": "Combo 2",
             "serving": "for 2 person",
-            "description": ["Khagina ", "1 Paratha","Chicken OR Beef Qeema", " Lassi OR 2 Tea","2 Regular Parathas"],
+            "description": [
+                "Khagina ",
+                "1 Paratha",
+                "Chicken OR Beef Qeema",
+                " Lassi OR 2 Tea",
+                "2 Regular Parathas"
+            ],
             "timings": "Weekdays from 8am to 12 noon.",
-            "price":"Rs 899/- only"
+            "price": "Rs 899/- only"
         },
         {
-            "Terms and Conditions apply":["Weekdays only ","From 8 am to 12 noon","Dine-in only","Limited time offer"," No other discount is valid on-top of this","T&C apply"]
+            "Terms and Conditions apply": [
+                "Weekdays only ",
+                "From 8 am to 12 noon",
+                "Dine-in only",
+                "Limited time offer",
+                " No other discount is valid on-top of this",
+                "T&C apply"
+            ]
         }
-    ]
+    ],
+    "management": [
+        {
+            "name": "Mr. Shaukat Ali Suleman",
+            "Designation": "Chief Executive"
+        },
+        {
+            "name": "Mr. Muhammad Ali",
+            "Designation": "Manager execution & construction"
+        },
+        {
+            "name": "Mr. Muhammad Umar Qasim",
+            "Designation": "Managing Director"
+        },
+        {
+            "name": "Mr. Abid Siddiq Omerson",
+            "Designation": "Director"
+        },
+        {
+            "name": "Mr. Razi Zubairi ",
+            "Designation": "architect & an interior designer"
+        },
+        {
+            "name": "John Doe",
+            "Designation": "Accountant"
+        }
+    ],
+    "staff": [
+        {
+            "numberOfChefs": 5,
+            "NumberOfDishwashers": 5,
+            "servingStaff": 10,
+            "hostingStaff": 5,
+            "busperson": 10
+        }
+    ],
+    "seatingCapicity": [
+        {
+            "table": "Square Tables",
+            "dimension": "24*24",
+            "totalSeats": 2
+        },
+        {
+            "table": "Square Tables",
+            "dimension": "30*30",
+            "totalSeats": "2-4"
+        },
+        {
+            "table": "Square Tables",
+            "dimension": "36* 36",
+            "totalSeats": 4
+        },
+        {
+            "table": "Square Tables",
+            "dimension": "42* 42",
+            "totalSeats": "4-6"
+        },
+        {
+            "table": "Square Tables",
+            "dimension": "48* 48",
+            "totalSeats": 8
+        },
+        {
+            "table": "Square Tables",
+            "dimension": "48* 48",
+            "totalSeats": 8
+        },
+        {
+            "table": "Round Tables",
+            "dimension": "24 Inch",
+            "totalSeats": 2
+        },
+        {
+            "table": "Round Tables",
+            "dimension": "30 Inch",
+            "totalSeats": "3-4"
+        },
+        {
+            "table": "Round Tables",
+            "dimension": "30 Inch",
+            "totalSeats": "3-4"
+        },
+        {
+            "table": "Round Tables",
+            "dimension": "36 Inch",
+            "totalSeats": "3-4"
+        },
+        {
+            "table": "Round Tables",
+            "dimension": "42 Inch",
+            "totalSeats": "4-5"
+        },
+        {
+            "table": "Round Tables",
+            "dimension": "48 Inch",
+            "totalSeats": "5-6"
+        },
+        {
+            "table": "Round Tables",
+            "dimension": "60 Inch",
+            "totalSeats": "8-10"
+        },
+        {
+            "table": "Round Tables",
+            "dimension": "72 Inch",
+            "totalSeats": "10"
+        },
+        {
+            "table": "Rectangular Tables",
+            "dimension": "24*30",
+            "totalSeats": 2
+        },
+        {
+            "table": "Rectangular Tables",
+            "dimension": "24*42",
+            "totalSeats": 4
+        },
+        {
+            "table": "Rectangular Tables",
+            "dimension": "24*48",
+            "totalSeats": 4
+        },
+        {
+            "table": "Rectangular Tables",
+            "dimension": "30*42",
+            "totalSeats": 4
+        },
+        {
+            "table": "Rectangular Tables",
+            "dimension": "24*60",
+            "totalSeats": 6
+        },
+        {
+            "table": "Rectangular Tables",
+            "dimension": "30*72",
+            "totalSeats": "6*8"
+        }
+    ],
     "contact": [
         {
             "location": "The Original Chaaye Khana, F-6, Islamabad",
@@ -1220,7 +1402,7 @@
         {
             "location": "Chaaye Khana Bahria Town, Rawalpindi",
             "address": "Plot 49, Main Boulevard, Civic Center, Phase 4, Bahria Town, Rawalpindi. ",
-            "contactNumber": 051 5733673-5
+            "contactNumber": " 051 5733673-5"
         },
         {
             "location": "Chaaye Khana Jhelum",
@@ -1245,7 +1427,11 @@
         {
             "location": "Chaaye Khana Abbotabad",
             "address": "Awan Shopping Center, phase 2, opposite daewoo bus station, Mansehra Road, Mandiyan.",
-            "contactNumber": ["061-6520111", "061-6520222", "061-6520333"]
+            "contactNumber": [
+                "061-6520111",
+                "061-6520222",
+                "061-6520333"
+            ]
         },
         {
             "location": "Chaaye Khana Karachi DHA",
@@ -1262,4 +1448,3 @@
         }
     ]
 }
-
